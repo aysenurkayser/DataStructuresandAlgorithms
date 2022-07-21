@@ -22,7 +22,10 @@ This project is the final project of the course named Data Structures and Algori
  ```
  Dizinin sıralı versiyonu --> [2, 6, 16, 18, 22, 27]
  Bu durumda 18 sayısını ortada kabul edebiliriz. Bu nedenle avarage case kapsamına girer.
+ 
+ 
  ``` 
+ * ``[7,3,5,8,2,9,4,15,6]``dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
  
 
 # 2. Merge Sort Projesi
