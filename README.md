@@ -16,6 +16,33 @@ This project is the final project of the course named Data Structures and Algori
 * Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 * Big-O gösterimini yazınız.
 
+```
+[16, 21, 11, 8, 12, 22]
+
+[16, 21, 11] || [8, 12, 22]
+
+[16, 21] | [11] || [8,12] | [22]
+
+[16] | [21] | [11] || [8] | [12] | [22] 
+
+[16, 21] | [11] || [8] | [12, 22]
+
+[11, 16, 21] || [8, 12, 22] 
+
+[8, 11, 12, 16, 21, 22 ]
+
+
+```
+
+```
+ Worst case   : O(n*logn)
+ Average case : O(n*logn)
+ Best case    : O(n*logn)
+ ```
+ 
+
+
+
 # 3. Binary Search Tree Projesi
 
 ``[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]`` dizisinin Binary-Search-Tree aşamalarını yazınız.
