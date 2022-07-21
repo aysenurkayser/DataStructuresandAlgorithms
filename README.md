@@ -13,10 +13,17 @@ This project is the final project of the course named Data Structures and Algori
  ```
 *  Time Complexity: Average case: Aradığımız sayının ortada olması, Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
  ```
- Worst case: [2, 6, 16, 18, 22, 27]
- Best case: [27, 22, 18, 16, 6, 2]
+ Aranan sayı 2 olsun. 
+ 
+ Best case: [2, 6, 16, 18, 22, 27]
+ Worst case: [27, 22, 18, 16, 6, 2]
  ```
 *  Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+ ```
+ Dizinin sıralı versiyonu --> [2, 6, 16, 18, 22, 27]
+ Bu durumda 18 sayısını ortada kabul edebiliriz. Bu nedenle avarage case kapsamına girer.
+ ``` 
+ 
 
 # 2. Merge Sort Projesi
 
